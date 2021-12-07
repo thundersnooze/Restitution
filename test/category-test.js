@@ -24,7 +24,6 @@ describe("Tests", function() {
 
     it("tokenURI is set sucessfully", async function() {
         [account1, account2] = await ethers.getSigners();
-//minting the first file
         const tokenURI_1 = "https://gateway.pinata.cloud/ipfs/QmRRtCm2nHysvDbEqgPL67uSzdGECZjGNYmFFpPh6w4v1M"
        
         const tx1 = await category.connect(account1).mint(tokenURI_1);
