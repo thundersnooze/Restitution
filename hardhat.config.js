@@ -10,7 +10,7 @@ task("accounts", "Prints the list of accounts", async (taskArgs, hre) => {
   }
 });
 
-task("deploy", "Deploy the smart contracts", async(taskArgs, hre) => {
+task("deploy", "deploys the contract", async(taskArgs, hre) => {
 
   const Category = await hre.ethers.getContractFactory("Category");
   const category = await Category.deploy("Category Contract", "CAT");
