@@ -1,4 +1,5 @@
 //SPDX-License-Identifier: Unlicense
+//Reference used: https://learn.figment.io/tutorials/create-nft-smart-contract-with-hardhat#interacting-with-the-smart-contract
 pragma solidity >=0.8.2; 
 
 import "@openzeppelin/contracts/token/ERC721/ERC721.sol";

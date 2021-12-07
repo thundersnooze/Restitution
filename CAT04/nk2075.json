@@ -1,0 +1,18 @@
+{
+    "title": "Asset Metadata",
+    "type": "object",
+    "properties": {
+        "name": {
+            "type": "string",
+            "description": "nk2071"
+        },
+        "description": {
+            "type": "string",
+            "description": "https://gateway.pinata.cloud/ipfs/QmNkVgQaw7AofuNpSpHmBRHryYQpwF1pZ5mKsmCqFZBmve"
+        },
+            "image": {
+            "type": "string",
+            "description": "https://gateway.pinata.cloud/ipfs/QmRQWycpgih5gcggk1zrs1cz6djUAgxB2ANjq8dFn7nF39"
+        }
+    }
+}

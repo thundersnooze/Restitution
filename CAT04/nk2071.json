@@ -1,0 +1,18 @@
+{
+    "title": "Asset Metadata",
+    "type": "object",
+    "properties": {
+        "name": {
+            "type": "string",
+            "description": "nk3387"
+        },
+        "description": {
+            "type": "string",
+            "description": "https://gateway.pinata.cloud/ipfs/QmbJSFfN35ZXB4ZURJtknHTNpJ9qFzeLEuWbKoXvfybTkw"
+        },
+            "image": {
+            "type": "string",
+            "description": "https://gateway.pinata.cloud/ipfs/Qmb6F2wXHLt1ubtZyNbqRdVgvN7ETdZUqCBifkcYZvycjK"
+        }
+    }
+}
